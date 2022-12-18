@@ -2,15 +2,21 @@
 
 A hotel reservation system made for Samal Davao.
 
-# Purpose of the System
+## Purpose of the System
 
 
 
 
-# Frameworks Used
+## Framework Used
 
-### Laravel <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/985px-Laravel.svg.png" width="48">
+### <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/985px-Laravel.svg.png" width="50" align="center" alt="Laravel icon" > &nbsp; Laravel 
+Laravel is a
 
-### Breeze
+\
+\
+Below are the packages used within `Laravel`
+#### Laravel Breeze
+A simple authentication feature included within Laravel.
 
-### Blade
+#### Laravel Blade
+A powerful templating engine that is included in Laravel. No restrictions to the use of PHP codes as other templates do.
