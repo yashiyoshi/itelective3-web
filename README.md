@@ -1,20 +1,35 @@
-# Samal Davao - Hotel Reservation System
+### <img src="https://2015.samalcity.gov.ph/images/SAMAL_LOGO.jpg" width="50" height="60" align="center" alt="Samal Davao Icon" > &nbsp; Samal Davao
+# Hotel Reservation System
 
 A hotel reservation system made for Samal Davao.
 
-## Purpose of the System
+<br />
 
+## Use Case Diagram
+<p align="center">
+    <img src="https://media.discordapp.net/attachments/555743204327030784/1054213226751082566/image.png?width=633&height=676">
+</p>
 
+___
+### System Description
+The hotel reservation system allows guests to book with the hotel without any hassles. Guests are able to create an account, login, check for room availability, view discounts, make payments, and other features all done through the system. 
 
+The system also allows hotel owners and administrators to update prices, availability, and discounts, which is instantly shown to all guests as soon as the change is confirmed. This prevents any unnecessary issues between owners and guests. It also ensures that each guests gets the latest information on the hotel regarding any details they need to book a room.
+
+### Possible Subsystems
+<li> Account Authentication System </li>
+<li> Payment Transaction System </li>
+<li> Booking System </li>
+
+<br />
 
 ## Framework Used
+### <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/985px-Laravel.svg.png" width="50" align="center" alt="Laravel icon"> &nbsp; Laravel
+Laravel is a reliable and simple to use open-source PHP framework. Laravel makes use of pre-existing parts from other frameworks to build online applications. The resulting web application is more organized and practical.
 
-### <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/985px-Laravel.svg.png" width="50" align="center" alt="Laravel icon" > &nbsp; Laravel 
-Laravel is a
+<br />
 
-\
-\
-Below are the packages used within `Laravel`
+Below are the assets to be used for this system which is already included within `Laravel`:
 #### Laravel Breeze
 A simple authentication feature included within Laravel.
 
