@@ -12,7 +12,7 @@ A hotel reservation system made for Samal Davao.
 
 ___
 ### System Description
-The hotel reservation system allows guests to book with the hotel without any hassles. Guests are able to create an account, login, check for room availability, view discounts, make payments, and other features all done through the system. 
+The hotel reservation system allows guests to book with the hotel without any hassles. Guests are able to create an account, login, check for room availability, view discounts, make payments, and other features all done through the system. Payment invoices are also generated as soon as the payment is successful, so that guests may verify the amount they've paid for. This invoice is also used as a proof of payment and may be useful to whenever a problem arises.
 
 The system also allows hotel owners and administrators to update prices, availability, and discounts, which is instantly shown to all guests as soon as the change is confirmed. This prevents any unnecessary issues between owners and guests. It also ensures that each guests gets the latest information on the hotel regarding any details they need to book a room.
 
@@ -20,6 +20,7 @@ The system also allows hotel owners and administrators to update prices, availab
 <li> Account Authentication System </li>
 <li> Payment Transaction System </li>
 <li> Booking System </li>
+<li> PDF Conversion System </li>
 
 <br />
 
