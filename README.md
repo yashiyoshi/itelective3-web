@@ -10,7 +10,6 @@ A hotel reservation system made for Samal Davao.
     <img src="https://media.discordapp.net/attachments/555743204327030784/1054213226751082566/image.png?width=633&height=676">
 </p>
 
-___
 ### System Description
 The hotel reservation system allows guests to book with the hotel without any hassles, online. Guests are able to create an account, login, check for room availability, view discounts, make payments, and other features all done through the system. Payment invoices are also generated as soon as the payment is successful, so that guests may verify the amount they've paid for. This invoice is also used as a proof of payment and may be useful to whenever a problem arises.
 
